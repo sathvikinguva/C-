@@ -1,0 +1,10 @@
+1,AP22110010748,Inguva Sathvik,Andhra Pradesh,8.8
+2,AP22110010733,Lavudu Chaturya,Andhra Pradesh,9.0
+3,AP22110010765,Mudigonda Pranav,Karnataka,8.4
+4,AP22110010775,Repalle Poojitha,Tamil Nadu,8.5
+5,AP22110010752,Abhigna Nerusu,Assam,8.0
+6,AP22110010745,Mohan,Chhattisgarh,7.0
+7,AP2211001050,Yuva Sri Sai,Gujarat,9.5
+8,AP22110010776,Pushyami,Arunachal Pradesh,8.3
+9,AP22110010772,Bhavya,Andhra Pradesh,8.9
+10,AP22110010718,James,Andhra Pradesh,7.0
